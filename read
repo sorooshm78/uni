@@ -1,0 +1,2 @@
+lowriter --convert-to pdf filename.doc
+lowriter --convert-to filename.docx
